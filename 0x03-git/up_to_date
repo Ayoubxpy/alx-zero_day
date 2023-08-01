@@ -1,1 +1,1 @@
-Fetch the latest changes from the remote repository (GitHub) using the git fetch command then Merge the fetched changes into your local branch (main) using the git merge command
+use\"git pull"\ to fetch and merge the changes from the remote "main" branch into your local "main" branch
